@@ -1,0 +1,11 @@
+﻿  win32_platform.cpp
+D:\CODE\C++\Visual Studio\Cppgame\Cppgame\win32_platform.cpp(13,2): warning C4091: 'typedef ': ignored on left of 'Render_state' when no variable is declared
+D:\CODE\C++\Visual Studio\Cppgame\Cppgame\renderer.cpp(49,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\CODE\C++\Visual Studio\Cppgame\Cppgame\renderer.cpp(50,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\CODE\C++\Visual Studio\Cppgame\Cppgame\renderer.cpp(51,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\CODE\C++\Visual Studio\Cppgame\Cppgame\renderer.cpp(52,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\CODE\C++\Visual Studio\Cppgame\Cppgame\platform_common.cpp(4,2): warning C4091: 'typedef ': ignored on left of 'Button_State' when no variable is declared
+D:\CODE\C++\Visual Studio\Cppgame\Cppgame\platform_common.cpp(20,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+D:\CODE\C++\Visual Studio\Cppgame\Cppgame\game.cpp(116,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\CODE\C++\Visual Studio\Cppgame\Cppgame\game.cpp(117,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Cppgame.vcxproj -> D:\CODE\C++\Visual Studio\Cppgame\x64\Debug\Cppgame.exe
